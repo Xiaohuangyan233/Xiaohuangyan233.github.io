@@ -16,8 +16,8 @@ SortBy              = "default"
     lastUpdated = ":date_medium"
 
 [sidebar]
-    emoji    = "🚀"
-    subtitle = "这是一个基于 Hugo Theme Stack v4 的修改版本"
+    emoji    = "🍡"
+    subtitle = "欢迎来到我的博客"
     avatar   = "img/avatar.jpg"
 
 [article]
