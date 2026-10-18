@@ -22,7 +22,7 @@
     default = "auto"
 
 [comments]
-    enabled  = true
+    enabled  = false       #暂时关闭
     provider = "waline"
     
 [comments.waline]
