@@ -10,7 +10,7 @@ section_titles:
     timeline: "⏳ 建站历程"
 
 profile:
-    name: "你的名字"
+    name: "小黄严"
     role: "开发者 / 博主"
     bio: "一个热爱技术的开发者，分享知识和经验。"
     tags: ["Hugo", "Web开发", "开源"]
@@ -18,7 +18,7 @@ profile:
 links:
   - title: GitHub
     description: 我的 GitHub 主页，包含开源项目。
-    website: https://github.com/liu-houliang
+    website: [https://github.com/Xiaohuangyan233]
     image: brand-github
   - title: Hugo
     description: 世界上最快的静态网站构建框架。
@@ -27,14 +27,14 @@ links:
 
 about_me:
   - label: "职业"
-    text: "开发者"
+    text: "学生"
     icon: "briefcase"
   - label: "爱好"
-    text: "编程 / 阅读 / 旅行"
+    text: "编程 / 摄影 / 旅行"
     icon: "bike"
   - label: "邮箱"
-    text: "your@email.com"
-    link: "mailto:your@email.com"
+    text: "qq18068171748@163.com"
+    link: "mailto:qq18068171748@163.com"
     icon: "mail"
 
 about_site:
