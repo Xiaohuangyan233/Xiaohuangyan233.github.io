@@ -26,7 +26,12 @@ content:
         type: string
       - name: tags
         label: 标签
-        type: list
+        type: string     # 注意这里改成了 string
+        list: true       # 加上 list: true，它就会变成一个可以点“+”号添加多项的输入框
+      - name: categories
+        label: 分类
+        type: string
+        list: true       # 顺手把分类也加上，Stack 主题支持分类
       - name: body
         label: 正文
         type: markdown
