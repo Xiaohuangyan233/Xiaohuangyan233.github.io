@@ -3,7 +3,10 @@ title: 快速入手MD
 date: 2026-10-21
 draft: false
 description: 快速入手
-tags: Markdown,入手,入门
+tags:
+  - Markdown
+categories:
+  - 入门
 ---
 ## 1. 标题 (Headings)
 使用 `#` 号表示标题，几个 `#` 就是几级标题。
