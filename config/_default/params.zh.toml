@@ -16,7 +16,7 @@ SortBy              = "default"
     lastUpdated = ":date_medium"
 
 [sidebar]
-    emoji    = "🍡"
+    emoji    = "🐤"
     subtitle = "欢迎来到我的博客"
     avatar   = "img/avatar.jpg"
 
