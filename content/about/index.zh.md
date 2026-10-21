@@ -18,7 +18,7 @@ profile:
 links:
   - title: GitHub
     description: 我的 GitHub 主页，包含开源项目。
-    website: [https://github.com/Xiaohuangyan233]
+    website: https://github.com/Xiaohuangyan233
     image: brand-github
   - title: Hugo
     description: 世界上最快的静态网站构建框架。
